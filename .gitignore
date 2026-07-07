@@ -18,3 +18,8 @@ Desktop.ini
 
 # macOS
 .DS_Store
+
+# Logs y temporales del script
+logs/
+downloads/
+*.tmp
