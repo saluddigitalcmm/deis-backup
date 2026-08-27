@@ -1,7 +1,7 @@
-Fecha: 2026-08-26 12:38:38
+Fecha: 2026-08-27 11:38:15
 Archivo: AtencionesUrgencia2026.zip
 Año: 2026
-Tamaño: 36340184 bytes
+Tamaño: 36502539 bytes
 Origen: DEIS
 URL origen: https://repositoriodeis.minsal.cl/SistemaAtencionesUrgencia/AtencionesUrgencia2026.zip
 Respaldo GitHub: saluddigitalcmm/deis-backup
